@@ -1,7 +1,8 @@
 ﻿# pokemon-project-docker
 
 1. git clone https://github.com/natnon007/pokemon-project-docker.git
-2. docker-compose up --build -d
+2. cd pokemon-project-docker
+3. docker-compose up --build -d
 
 
 External API (Public REST APIs from POSTMAN)
