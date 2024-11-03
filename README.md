@@ -16,7 +16,8 @@ Frontend
 1. http://localhost:3000/
 
 pgAdmin
-1. username admin@admin.com / password admin
+1. http://localhost:8080
+2. username admin@admin.com / password admin
 
 PostgreSQL
 1. URL: database
