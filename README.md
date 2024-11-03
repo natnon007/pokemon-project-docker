@@ -1,5 +1,6 @@
 ﻿# pokemon-project-docker
 
+การติดตั้ง
 1. git clone https://github.com/natnon007/pokemon-project-docker.git
 2. cd pokemon-project-docker
 3. docker-compose up --build -d
