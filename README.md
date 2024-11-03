@@ -17,8 +17,8 @@ pgAdmin
 1. username admin@admin.com / password admin
 
 PostgreSQL
-URL: database
-POSTGRES_USER: admin
-POSTGRES_PASSWORD: admin
-POSTGRES_DB: pokemon_db
-Port: 5432
+1. URL: database
+2. POSTGRES_USER: admin
+3. POSTGRES_PASSWORD: admin
+4. POSTGRES_DB: pokemon_db
+5. Port: 5432
