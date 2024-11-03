@@ -8,7 +8,7 @@
 External API (Public REST APIs from POSTMAN)
 1. https://pokeapi.co/api/v2/pokemon
 
-Local API
+Backend(Local API) 
 1. http://localhost:3001/api/pokemons
 
 Frontend
